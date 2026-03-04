@@ -1,3 +1,9 @@
+/* 
+Page Insight Lab
+Purpose: Record and save book insights to Firebase. 
+Auto-fills book title from library selection.
+*/
+
 import { Suspense } from 'react';
 import { LabContent } from './content';
 
